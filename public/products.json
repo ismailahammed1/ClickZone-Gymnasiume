@@ -1,0 +1,58 @@
+[
+  {
+    "id": "6334c3525d924693b31e5fb4",
+    "age": "27 - 37",
+    "name": "Center of Strength",
+"details":"center of strength for those people who wants to change life in busy schedules. ",
+    "Timerequired" : 30,
+    "img": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "6334c3524cea603823f3c764",
+    "age": "29 - 38",
+    "name": "Home of Fit Kids",
+    "details":"Fit Kids fixes a fitness opportunity gap by providing structured fitness programs for youth, ",
+    "Timerequired" : 20,
+    "img": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "6334c352e266424984c65f67",
+    "age": "24 - 38",
+    "details":"center of strength for those people who wants to change life in busy schedules. ",
+    "name": "The Muscle Bar",
+    "Timerequired" : 30,
+    "img": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "6334c3524abc36e3c8371be8",
+    "age": "20 - 35",
+    "details":"center of strength for those people who wants to change life in busy schedules. ",
+    "name": "Total Body Gym",
+    "Timerequired" : 40,
+    "img": "https://images.unsplash.com/photo-1517964603305-11c0f6f66012?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+  },
+  {
+    "id": "6334c352e9e139ff9ef535bf",
+    "age": "24 - 22",
+    "details":"Fit Kids fixes a fitness opportunity gap by providing structured fitness programs for youth, ",
+    "name": "Energy Zone",
+    "Timerequired" : 50,
+    "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "6334c352057bb1e22ffcbad5",
+    "age": "22 - 20",
+    "details":"center of strength for those people who wants to change life in busy schedules. ",
+    "name": "Kick it Fitness",
+    "Timerequired" : 20,
+    "img": "https://images.unsplash.com/photo-1581009137042-c552e485697a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "6334c3520fef3404845e8f45",
+    "age": "27 - 34",
+    "details":"Fit Kids fixes a fitness opportunity gap by providing structured fitness programs for youth, ",
+    "name": "Mettle Fitness Gym",
+    "Timerequired" : 30,
+    "img": "https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
+  }
+]
